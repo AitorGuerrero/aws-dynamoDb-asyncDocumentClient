@@ -1,0 +1,30 @@
+{
+  "name": "aws-dynamoDb-asyncDocumentClient",
+  "version": "0.0.1",
+  "description": "AWS DynamoDB's Document Client asynchronous version",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AitorGuerrero/aws-dynamoDb-asyncDocumentClient.git"
+  },
+  "engines": {
+    "node": "4.4.2"
+  },
+  "keywords": [
+    "aws",
+    "amazon",
+    "dynamodb",
+    "async"
+  ],
+  "author": "Aitor Guerrero <aguerrerolasarte@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AitorGuerrero/aws-dynamoDb-asyncDocumentClient/issues"
+  },
+  "homepage": "https://github.com/AitorGuerrero/aws-dynamoDb-asyncDocumentClient#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/aws-sdk": "0",
+    "@types/node": "6"
+  }
+}
